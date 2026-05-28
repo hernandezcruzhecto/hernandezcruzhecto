@@ -18,7 +18,7 @@ Senior Full-Stack Engineer with 9+ years of experience building production syste
 
 ## Featured projects
 
-These are clean, public re-implementations of patterns I work with in production — built to be read, run, and reviewed.
+Clean, public re-implementations of patterns I work with in production — built to be read, run, and reviewed. Together they span the full stack, from a clinical ingestion backend to the dashboard a clinician would watch.
 
 ### 🔍 [rag-pipeline](https://github.com/hernandezcruzhecto/rag-pipeline)
 A production-oriented Retrieval-Augmented Generation pipeline.
@@ -32,6 +32,10 @@ A GraphQL API demonstrating the two things that actually move latency: **elimina
 ### 🐹 [go-microservice](https://github.com/hernandezcruzhecto/go-microservice)
 A gRPC microservice for real-time clinical data ingestion. **Bounded-concurrency worker pool with backpressure**, context propagation and cancellation, and **graceful shutdown** that drains in-flight work. Concurrency verified with the Go race detector.
 `Go` · `gRPC` · `protobuf` · `concurrency`
+
+### 📈 [vitals-dashboard](https://github.com/hernandezcruzhecto/vitals-dashboard)
+A real-time clinical vitals monitoring UI — the front end to the ingestion service above. **Memoized rendering** that stays smooth under per-second updates, **hand-rolled SVG sparklines** (no charting dependency), derived state, and accessible severity-based alerting.
+`React` · `TypeScript` · `Vite` · `performance`
 
 ---
 
