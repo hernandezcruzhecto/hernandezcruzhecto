@@ -1,4 +1,4 @@
-# Hi, I'm Hector Cruz 👋
+# Hi, I'm Héctor Hernández Cruz 👋
 
 Senior Full-Stack Engineer with 9+ years of experience building production systems. I work across React/TypeScript frontends, Node.js and Go backends, AWS infrastructure, and LLM-powered clinical AI pipelines.
 
