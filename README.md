@@ -1,6 +1,6 @@
 # Hi, I'm Hector Cruz 👋
 
-Senior Full-Stack Engineer with 9+ years of experience building production systems — React/TypeScript frontends, Node.js & Go backends, AWS infrastructure, and LLM-powered clinical AI pipelines.
+Senior Full-Stack Engineer with 9+ years of experience building production systems. I work across React/TypeScript frontends, Node.js and Go backends, AWS infrastructure, and LLM-powered clinical AI pipelines.
 
 📍 Playa del Carmen, Mexico · Open to remote opportunities
 
@@ -8,8 +8,8 @@ Senior Full-Stack Engineer with 9+ years of experience building production syste
 
 ## About me
 
-- 🏥 Currently at **Curie Health** — building clinical AI with RAG pipelines, AWS Bedrock, and HIPAA-compliant LLM workflows
-- ⚡ Reduced API response time by **42%** with optimized GraphQL + Redis caching
+- 🏥 Currently at **Curie Health**, building clinical AI with RAG pipelines, AWS Bedrock, and HIPAA-compliant LLM workflows
+- ⚡ Reduced API response time by **42%** with optimized GraphQL APIs and Redis caching
 - 🤖 Experience with **LangChain, vector search, prompt engineering**, and structured output validation in production
 - 🐹 Comfortable in both **Node.js** and **Go** for high-performance concurrent systems
 - ☁️ Deployed and maintained services on **AWS** with Kubernetes and GitHub Actions CI/CD
@@ -18,7 +18,7 @@ Senior Full-Stack Engineer with 9+ years of experience building production syste
 
 ## Featured projects
 
-Clean, public re-implementations of patterns I work with in production — built to be read, run, and reviewed. Together they span the full stack, from a clinical ingestion backend to the dashboard a clinician would watch.
+Clean, public re-implementations of patterns I work with in production. Built to be read, run, and reviewed. Together they span the full stack, from a clinical ingestion backend to the dashboard a clinician would watch.
 
 ### 🔍 [rag-pipeline](https://github.com/hernandezcruzhecto/rag-pipeline)
 A production-oriented Retrieval-Augmented Generation pipeline.
@@ -34,7 +34,7 @@ A gRPC microservice for real-time clinical data ingestion. **Bounded-concurrency
 `Go` · `gRPC` · `protobuf` · `concurrency`
 
 ### 📈 [vitals-dashboard](https://github.com/hernandezcruzhecto/vitals-dashboard)
-A real-time clinical vitals monitoring UI — the front end to the ingestion service above. **Memoized rendering** that stays smooth under per-second updates, **hand-rolled SVG sparklines** (no charting dependency), derived state, and accessible severity-based alerting.
+A real-time clinical vitals monitoring UI, the front end to the ingestion service above. **Memoized rendering** that stays smooth under per-second updates, **hand-rolled SVG sparklines** (no charting dependency), derived state, and accessible severity-based alerting.
 `React` · `TypeScript` · `Vite` · `performance`
 
 ---
