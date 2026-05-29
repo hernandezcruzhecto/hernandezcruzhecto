@@ -33,7 +33,7 @@ A GraphQL API demonstrating the two things that actually move latency: **elimina
 A gRPC microservice for real-time clinical data ingestion. **Bounded-concurrency worker pool with backpressure**, context propagation and cancellation, and **graceful shutdown** that drains in-flight work. Concurrency verified with the Go race detector.
 `Go` · `gRPC` · `protobuf` · `concurrency`
 
-### 📈 [vitals-dashboard](https://github.com/hernandezcruzhecto/vitals-dashboard)
+### 📈 [vitals-dashboard](https://github.com/hernandezcruzhecto/vitals-dashboard) · [🔗 Live demo](https://vitals-dashboard-lilac.vercel.app)
 A real-time clinical vitals monitoring UI, the front end to the ingestion service above. **Memoized rendering** that stays smooth under per-second updates, **hand-rolled SVG sparklines** (no charting dependency), derived state, and accessible severity-based alerting.
 `React` · `TypeScript` · `Vite` · `performance`
 
@@ -65,12 +65,6 @@ A real-time clinical vitals monitoring UI, the front end to the ingestion servic
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![GCP Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
----
-
-## Most used languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandezcruzhecto&layout=compact&hide_border=true&langs_count=8)
 
 ---
 
