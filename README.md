@@ -8,7 +8,7 @@ Senior Full-Stack Engineer with 9+ years of experience building production syste
 
 ## About me
 
-- 🏥 Currently at **Curie Health**, building clinical AI with RAG pipelines, AWS Bedrock, and HIPAA-compliant LLM workflows
+- 🏥 Currently at **Curai Health**, building clinical AI with RAG pipelines, AWS Bedrock, and HIPAA-compliant LLM workflows
 - ⚡ Reduced API response time by **42%** with optimized GraphQL APIs and Redis caching
 - 🤖 Experience with **LangChain, vector search, prompt engineering**, and structured output validation in production
 - 🐹 Comfortable in both **Node.js** and **Go** for high-performance concurrent systems
